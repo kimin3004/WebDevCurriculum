@@ -107,8 +107,9 @@
 - 린트와 빌드 등의 과정을 개발 싸이클에서 편하게 수행하려면 어떻게 하는 것이 좋을까요?
 
   - Prettier와 같이 별도의 확장팩을 설치하여 코드를 저장할때마다 자동으로 Lint검사를 실시하도록 설정해줄 수 있다.
+  - [husky](https://typicode.github.io/husky/#/?id=install)를 이용해 git add나 commit, push가 시행되기 전이나 후에 자동으로 Lint검사를 실행 시킬 수도 있다.
 
-- 참고 : https://365kim.tistory.com/188
+- 참고 : https://365kim.tistory.com/188, https://www.huskyhoochu.com/npm-husky-the-git-hook-manager
 
 ## Quest
 
