@@ -286,7 +286,7 @@
 
 참고 : [https://joshua1988.github.io/webpack-guide/motivation/why-webpack.html](https://joshua1988.github.io/webpack-guide/motivation/why-webpack.html#%ED%8C%8C%EC%9D%BC-%EB%8B%A8%EC%9C%84%EC%9D%98-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EB%AA%A8%EB%93%88-%EA%B4%80%EB%A6%AC)
 
-Webpack은 ES5와 호환 되는 모든 브라우저를 지원합니다 (IE8 이하는 지원하지 않습니다).
+Webpack은 ES5와 호환 되는 모든 브라우저를 지원한다. (IE8 이하는 지원하지 않습니다).
 
 ## Quest
 
